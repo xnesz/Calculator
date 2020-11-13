@@ -1,0 +1,13 @@
+C:\Users\nessa\source\repos\4school\4school\bin\Debug\netcoreapp3.1\4school.exe
+C:\Users\nessa\source\repos\4school\4school\bin\Debug\netcoreapp3.1\4school.deps.json
+C:\Users\nessa\source\repos\4school\4school\bin\Debug\netcoreapp3.1\4school.runtimeconfig.json
+C:\Users\nessa\source\repos\4school\4school\bin\Debug\netcoreapp3.1\4school.runtimeconfig.dev.json
+C:\Users\nessa\source\repos\4school\4school\bin\Debug\netcoreapp3.1\4school.dll
+C:\Users\nessa\source\repos\4school\4school\bin\Debug\netcoreapp3.1\4school.pdb
+C:\Users\nessa\source\repos\4school\4school\obj\Debug\netcoreapp3.1\4school.csprojAssemblyReference.cache
+C:\Users\nessa\source\repos\4school\4school\obj\Debug\netcoreapp3.1\4school.AssemblyInfoInputs.cache
+C:\Users\nessa\source\repos\4school\4school\obj\Debug\netcoreapp3.1\4school.AssemblyInfo.cs
+C:\Users\nessa\source\repos\4school\4school\obj\Debug\netcoreapp3.1\4school.csproj.CoreCompileInputs.cache
+C:\Users\nessa\source\repos\4school\4school\obj\Debug\netcoreapp3.1\4school.dll
+C:\Users\nessa\source\repos\4school\4school\obj\Debug\netcoreapp3.1\4school.pdb
+C:\Users\nessa\source\repos\4school\4school\obj\Debug\netcoreapp3.1\4school.genruntimeconfig.cache
